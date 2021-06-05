@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
+<h1 align="center"><b>❤️ Love talks bot  ❤️</b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -17,40 +17,40 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone who starred Love talks bot, That is the greatest pleasure we have !
 
 ### https://daisyproject.studio
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
+## Avaiilable on Telegram as [@Love_talks_bot](https://t.me/Love_talks_bot)
 
 # 🧙‍♀️ Deploy Guide
-Complete guide on deploying @DaisyXBot's clone on Heroku.
+Complete guide on deploying @Love_talks_bot's clone on Heroku.
 
 [![Tutorial](https://yt-embed.herokuapp.com/embed?v=yar61k_hEHQ)](https://www.youtube.com/watch?v=yar61k_hEHQ)
 
-☆ Video by [ANJANA MADUSHANKA](https://www.youtube.com/channel/UCApXYZNiMdW6UG48-syX7wQ) ☆
+
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imteyazking/DaisyX.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
 <a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ❤️ Support
-<a href="https://t.me/LEGENDX22"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/love_talks_famly"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyX
+$ git clone https://github.com/Imteyazking/DaisyX
 $ cd DaisyX
 # Upgrade sources
 $ bash deploy.sh
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
-# Rename ./DaisyX/data/bot_conf.yaml.example to bot_conf.yaml and fill
+# Rename ./Love_talks_bot/data/bot_conf.yaml.example to bot_conf.yaml and fill
 # Start Bot 
 $ python(3) -m DaisyX
 ```
@@ -85,7 +85,7 @@ $ python(3) -m DaisyX
  - [Image-Editor](https://github.com/TroJanzHEX/Image-Editor/)
  - [Utah](https://github.com/minatouzuki/utah).
  - [WilliamButcherBot](https://github.com/thehamkercat/WilliamButcherBot)
- - [LEGENDX](https://github.com/LEGENDXOP/LEGEND-X)
+ - [Imteyaz](https://github.com/Imteyazking/Imteyazking)
 
 ## Special Credits
 - [SophieBot Devs](https://gitlab.com/SophieBot)
@@ -122,7 +122,7 @@ Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport
 #### • DARK PRINCE »»  <a href="https://github.com/Mr-Dark-Prince" alt="DarkPrince"> <img src="https://img.shields.io/badge/DarkPrince-95B9C7?logo=github" /></a>
 #### • OFFICIAL_BAWWA    »»  <a href="https://github.com/Official_Bawwa" alt="Official_Bawwa"> <img src="https://img.shields.io/badge/Official_Bawwa-90302f?logo=github" /></a>
 #### • Annihilatorrrr   »»  <a href="https://github.com/annihilatorrrr" alt="annihilatorrrr"> <img src="https://img.shields.io/badge/annihilatorrrr-E9E1E9?logo=github" /></a>
-#### • LEGENDX     »»  <a href="https://github.com/legendXOp" alt="LegendXOp"> <img src="https://img.shields.io/badge/LegendX-92CALA?logo=github" /></a>
+#### • Imteyaz    »»  <a href="https://github.com/Imteyazking" alt="Imteyazking"> <img src="https://img.shields.io/badge/Imteyazking-92CALA?logo=github" /></a>
 
 
 ## All who helped at a glance 
