@@ -1,4 +1,4 @@
-
+https://telegra.ph/file/07342d5d86c31268c9f34.jpg
 <h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
